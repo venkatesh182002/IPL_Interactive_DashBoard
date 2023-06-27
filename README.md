@@ -7,6 +7,9 @@ Project Description:
 
 The IPL Dashboard is an end-to-end project that provides comprehensive visualizations and insights based on the Indian Premier League (IPL) data from 2008 to 2022. The project utilizes Power BI, a powerful business analytics tool, to connect to a PostgreSQL database and present the data in a visually appealing and interactive manner.
 
+
+![image](https://github.com/venkatesh182002/IPL_Interactive_DashBoard/assets/74310227/3d7cc868-cf1d-4d89-96e8-5aeebae04efb)
+
 Features:
 
 Database Setup: The project involves creating two tables, namely "ipl_matches_2008_2022" and "ipl_ball_by_ball_2008_2022," in PostgreSQL to store IPL match and ball-by-ball data. The tables are designed to capture various attributes related to matches, teams, players, and game statistics.
